@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ayushi02paul192
+- 👋 Hi, I’m Ayushi
 - 👀 I’m interested in books, coding and so on
-- 🌱 I’m currently learning app developement
+- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on app development projects( currently iOS!)
 - 📫 You can reach me through LinkedIn or twitter
 
