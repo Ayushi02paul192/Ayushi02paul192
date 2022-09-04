@@ -24,7 +24,10 @@
 <img alt="Flutter" style="margin:10px" width="50em" height="50em" align="left" title="C++" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
 <img alt="Dart" style="margin:10px" width="50em" height="50em" align="left" title="C++" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
 <img alt="Git" style="margin:10px" width="50em" height="50em" align="left" title="C++" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img alt="Java" style="margin:10px" width="60em" height="60em" align="left" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <br/>  \
+<img alt="Java" style="margin:10px" width="60em" height="60em" align="left" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+
+<br/>
+
 
 ## Find me on
 
